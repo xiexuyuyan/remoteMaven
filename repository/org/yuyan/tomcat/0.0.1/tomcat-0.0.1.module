@@ -1,0 +1,69 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.yuyan",
+    "module": "tomcat",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tomcat-0.0.1.jar",
+          "url": "tomcat-0.0.1.jar",
+          "size": 6072,
+          "sha512": "2afa7d9a00265c97f47403ef589ff12a7e49e7d7072379df63bb67479149d4985ef51fe2621db1fe224ab38e935af1b225fcb4079379dd2d2dfa623c3ec96c7e",
+          "sha256": "7ad138032501939cefdb1225e2ad3f386613761b62707acc7d921f51b203ab3c",
+          "sha1": "74134daa9005e0812fe74104c28e85fad17bf3a2",
+          "md5": "c78dac47e15ed68d255a1c6d5f058f8a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.tomcat.embed",
+          "module": "tomcat-embed-core",
+          "version": {
+            "requires": "8.5.23"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tomcat-0.0.1.jar",
+          "url": "tomcat-0.0.1.jar",
+          "size": 6072,
+          "sha512": "2afa7d9a00265c97f47403ef589ff12a7e49e7d7072379df63bb67479149d4985ef51fe2621db1fe224ab38e935af1b225fcb4079379dd2d2dfa623c3ec96c7e",
+          "sha256": "7ad138032501939cefdb1225e2ad3f386613761b62707acc7d921f51b203ab3c",
+          "sha1": "74134daa9005e0812fe74104c28e85fad17bf3a2",
+          "md5": "c78dac47e15ed68d255a1c6d5f058f8a"
+        }
+      ]
+    }
+  ]
+}
