@@ -27,11 +27,11 @@
         {
           "name": "command-utils-0.0.1.jar",
           "url": "command-utils-0.0.1.jar",
-          "size": 9698,
-          "sha512": "8c57b414cd25c18430db56e473ff7e9adb0e6b4de6acf78db15c31a6692171b319b36e387acdcb7cb27736c6741982721fb6e4b36e7e2662926cb18cfba1b20d",
-          "sha256": "c4a1cf3dcaeeae65eabe5b8881b2c163c0f10d3a83736c7f4baafdb480ae9c17",
-          "sha1": "a176a873558092088974a9008a81073155880434",
-          "md5": "ff0de38942181ad1265ca02a94f9c27b"
+          "size": 9695,
+          "sha512": "b471cb53edd70d79e2de9f7a09d814e705c228f835466959de7e425fc55bc0faffb3fd5539fe1105ce31ee30e8a1940eade04d9769ababfdc34c94ebcd627de1",
+          "sha256": "1188aaecfc5973a90a661f4615ddabb6e68526074c230691c2b6d891446da29b",
+          "sha1": "74077a13142f0b455fc2538dc8fb4c0f58529556",
+          "md5": "7bc6a1e9e653a1c8917d4cc4d5c1493c"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "command-utils-0.0.1.jar",
           "url": "command-utils-0.0.1.jar",
-          "size": 9698,
-          "sha512": "8c57b414cd25c18430db56e473ff7e9adb0e6b4de6acf78db15c31a6692171b319b36e387acdcb7cb27736c6741982721fb6e4b36e7e2662926cb18cfba1b20d",
-          "sha256": "c4a1cf3dcaeeae65eabe5b8881b2c163c0f10d3a83736c7f4baafdb480ae9c17",
-          "sha1": "a176a873558092088974a9008a81073155880434",
-          "md5": "ff0de38942181ad1265ca02a94f9c27b"
+          "size": 9695,
+          "sha512": "b471cb53edd70d79e2de9f7a09d814e705c228f835466959de7e425fc55bc0faffb3fd5539fe1105ce31ee30e8a1940eade04d9769ababfdc34c94ebcd627de1",
+          "sha256": "1188aaecfc5973a90a661f4615ddabb6e68526074c230691c2b6d891446da29b",
+          "sha1": "74077a13142f0b455fc2538dc8fb4c0f58529556",
+          "md5": "7bc6a1e9e653a1c8917d4cc4d5c1493c"
         }
       ]
     }
